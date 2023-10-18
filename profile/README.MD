@@ -5,8 +5,8 @@ LenmoOS开发团队
 [发布地址](https://b23.tv/tZWCfWk)
 
 ### 联系我们
-QQ群：935141593
-邮箱：LNOLenmoOS@outlook.com
+ - QQ群：935141593
+ - 邮箱：LNOLenmoOS@outlook.com
 
 ### 开发人员
  - SadEPa~114514[（哔哩哔哩：SadEPa）](https://b23.tv/HHK7CjO)：网站 OOBE
